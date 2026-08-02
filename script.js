@@ -59,19 +59,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
 
-    // Download Button Placeholder
-    const downloadButton = document.querySelector(".download-btn");
 
-    if (downloadButton) {
-
-        downloadButton.addEventListener("click", function (e) {
-
-            e.preventDefault();
-
-            alert("OGAds Content Locker will be connected here.");
-
-        });
-
-    }
 
 });
